@@ -1,8 +1,11 @@
-# SUnORE-WordPress-Child-Theme
-SUnORE Wordpress Child Theme based on WordPress Twenty Fifteen
+# SUnORE-WordPress-Child-Theme  
+SUnORE Wordpress Child Theme based on WordPress Twenty Fifteen  
 
-#####The theme can be seen in action here: www.SUnORE.co.za
+The theme can be seen in action here: [www.sunore.co.za](www.SUnORE.co.za)  
 
-### Child Themes: http://codex.wordpress.org/Child_Themes
-Added the following to Twenty Fifteen
-* Support for http://prismjs.com/     (LaTex syntax highlighting)
+##Theme Links
+Added the following to Twenty Fifteen Support for [LaTex syntax highlighting](http://prismjs.com/) 
+
+##Using The following plugins:
+[Styleguide plugin](http://wptavern.com/how-to-customize-the-body-and-title-font-in-wordpress-default-themes-without-touching-code)
+[Gustomization guide](http://premium.wpmudev.org/blog/customize-twenty-fifteen/)
